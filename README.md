@@ -31,22 +31,19 @@ My Skills 📖
 <br />
 <h3> You can reach me at 📫 </h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charles-chukwunweike-eneh-5345a2147)](https://www.linkedin.com/in/stanley-enekwe-285104230/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=2347035184416&text=Olá!)](https://api.whatsapp.com/send?phone=2347031601167&text=Olá!)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stanley-enekwe-285104230/)](https://www.linkedin.com/in/stanley-enekwe-285104230/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=2347031601167&text=Olá!)](https://api.whatsapp.com/send?phone=2347031601167&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tochukwuu14@gmail.com)](mailto:tochukwuu14@gmail.com)
 
 
 
 
 
- ## My Stats
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Enekwestanley&count_private=true&theme=buefy&showicons=true)](https://github-readme-stats.vercel.app/api/?username=Enekwestanley&count_private=true&theme=buefy&showicons=true)
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Enekwestanley&langs_count=5&theme=buefy)](https://github-readme-stats.vercel.app/api/top-langs/?username=Enekwestanley&langs_count=5&theme=buefy)
-
-![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Enekwestanley)
-
+ ## My Stats :bar_chart:
+<div align=center>
+ <img height=205 src="https://github-readme-stats.vercel.app/api?username=Enekwestanley&show_icons=true&theme=city_lights&count_private=true&include_all_commits=true" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enekwestanley&theme=city_lights&langs_count=3" />
+</div>
 <br />
 
 **Thanks for Stopping by and visiting!! 😊**
