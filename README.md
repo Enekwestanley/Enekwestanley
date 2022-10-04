@@ -25,8 +25,6 @@ My Skills 📖
 
 ![](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![](https://img.shields.io/badge/code-NodeJs-3c873a?style=for-the-badge&labelColor=black&logo=NodeJs&logoColor=3c873a)
-![](https://img.shields.io/badge/Postgresql-305d8d?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=305d8d)
 <!-- ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=f3b745) -->
 <!-- ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=color=#61dafb)
  -->
@@ -43,9 +41,9 @@ My Skills 📖
 
  ## My Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=charlyeneh&count_private=true&theme=buefy&showicons=true)](https://github-readme-stats.vercel.app/api/?username=Enekwestanley&count_private=true&theme=buefy&showicons=true)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Enekwestanley&count_private=true&theme=buefy&showicons=true)](https://github-readme-stats.vercel.app/api/?username=Enekwestanley&count_private=true&theme=buefy&showicons=true)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=charlyeneh&langs_count=5&theme=buefy)](https://github-readme-stats.vercel.app/api/top-langs/?username=Enekwestanley&langs_count=5&theme=buefy)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Enekwestanley&langs_count=5&theme=buefy)](https://github-readme-stats.vercel.app/api/top-langs/?username=Enekwestanley&langs_count=5&theme=buefy)
 
 ![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Enekwestanley)
 
