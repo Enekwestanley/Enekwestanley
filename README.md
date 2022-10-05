@@ -1,7 +1,7 @@
 ## Hi there I'm Stanley Tochukwu Enekwe!👋
 I'm a Full-stack software developer interested in new technologies and looking for new challenges.
 ## About Me 📄
-I have a passion for using codes to solve problems, and I am always open to new opportunities.
+I have a passion for using code to solve problems, and I am always open to new opportunities.
 ## Contact Me :mailbox_with_no_mail:
 <div>
   <a href="https://www.linkedin.com/in/stanley-enekwe-285104230"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
